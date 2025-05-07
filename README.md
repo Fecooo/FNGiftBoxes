@@ -4,6 +4,13 @@ Here you can find the list of available gift boxes in Fortnite, along with their
 
 I will try to continuously expand the list as new ones become available.
 
+## Content
+
+- [Battle Pass gift boxes](#for-battle-pass-gifting)
+- [OG Pass gift boxes](#for-og-pass-gifting)
+- [Music Pass gift boxes](#for-music-pass-gifting)
+- [LEGO Pass gift boxes](#for-battle-pass-gifting)
+
 ## For Battle Pass Gifting
 
 | ID            | Season                  | Image                       |
