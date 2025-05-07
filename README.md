@@ -1,4 +1,8 @@
-# History of Gift Boxes in Fortnite
+# Fortnite Gift Box Collection
+
+Here you can find the list of available gift boxes in Fortnite, along with their IDs and images.
+
+I will try to continuously expand the list as new ones become available.
 
 ## For Battle Pass Gifting
 
