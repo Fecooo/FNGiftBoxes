@@ -30,3 +30,26 @@
 | GB_S33_Gifter | Chapter 6, Season 1     | ![](images/bp/C6S1.png)     |
 | GB_S34_Gifter | Chapter 6, Season 2     | ![](images/bp/C6S2.png)     |
 | GB_S35_Gifter | Chapter 6, Season MS 1  | ![](images/bp/C6SMS1.png)   |
+
+## For OG Pass Gifting
+
+| ID                | Season        | Image                 |
+| :---------------- | :-----------: | --------------------: |
+| GB_S01_Gifter_fig | Season 1      | ![](images/og/S1.png) |
+| GB_S02_Gifter_fig | Season 2      | ![](images/og/S2.png) |
+| GB_S03_Gifter_fig | Season 3      | ![](images/og/S3.png) |
+
+## For Music Pass Gifting
+
+| ID                  | Season        | Image                    |
+| :------------------ | :-----------: | -----------------------: |
+| GB_S07_Gifter_Music | Season 7      | ![](images/music/S7.png) |
+| GB_S08_Gifter_Music | Season 8      | ![](images/music/S8.png) |
+
+## For LEGO Pass Gifting
+
+| ID                 | Season                      | Image                   |
+| :----------------- | :-------------------------: | ----------------------: |
+| GB_S01_Gifter_Juno | Season 1 (Chill & Thrill)   | ![](images/lego/S1.png) |
+| GB_S02_Gifter_Juno | Season 2 (Goldrush Gallery) | ![](images/lego/S2.png) |
+| GB_S03_Gifter_Juno | Season 3 (First Order)      | ![](images/lego/S3.png) |
