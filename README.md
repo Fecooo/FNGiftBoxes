@@ -9,7 +9,7 @@ I will try to continuously expand the list as new ones become available.
 - [Battle Pass gift boxes](#for-battle-pass-gifting)
 - [OG Pass gift boxes](#for-og-pass-gifting)
 - [Music Pass gift boxes](#for-music-pass-gifting)
-- [LEGO Pass gift boxes](#for-battle-pass-gifting)
+- [LEGO Pass gift boxes](#for-lego-pass-gifting)
 
 ## For Battle Pass Gifting
 
